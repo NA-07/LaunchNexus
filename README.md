@@ -1,4 +1,4 @@
-# 🚀 LaunchNexus - Student Growth & Impact Tracker (India Edition)
+# 🚀 LaunchNexus - Student Growth & Impact Tracker
 
 > **Empowering school counselors to guide Indian students toward their future with AI-powered insights, comprehensive college planning tools, and smart entrance exam-based matching for IITs, NITs, BITS, AIIMS, and more.**
 
